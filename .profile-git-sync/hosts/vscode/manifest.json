@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "host": "vscode",
+  "createdAt": "",
+  "profiles": [
+    {
+      "id": "default",
+      "name": "默认",
+      "isDefault": true
+    }
+  ],
+  "profileMetadata": [],
+  "files": {
+    "profiles/default/settings.json": "ac31123629b9184a7f7a69e75fdef66e3c93080c82684970fa7849b27b957e28",
+    "extensions.json": "7dda75378c6e941311f197edd98f3127af31443ac482907e43863a79343b673b"
+  }
+}
