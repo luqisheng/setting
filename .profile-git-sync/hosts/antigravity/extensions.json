@@ -1,0 +1,147 @@
+[
+  {
+    "identifier": {
+      "id": "alibaba-cloud.tongyi-lingma"
+    }
+  },
+  {
+    "identifier": {
+      "id": "anthropic.claude-code"
+    }
+  },
+  {
+    "identifier": {
+      "id": "eamodio.gitlens"
+    }
+  },
+  {
+    "identifier": {
+      "id": "giscafer.leek-fund"
+    }
+  },
+  {
+    "identifier": {
+      "id": "golang.go"
+    }
+  },
+  {
+    "identifier": {
+      "id": "llvm-vs-code-extensions.vscode-clangd"
+    }
+  },
+  {
+    "identifier": {
+      "id": "mechatroner.rainbow-csv"
+    }
+  },
+  {
+    "identifier": {
+      "id": "meta.pyrefly"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-containers"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-azuretools.vscode-docker"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-ceintl.vscode-language-pack-zh-hans"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.debugpy"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.python"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-python.vscode-python-envs"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ms-vscode.powershell"
+    }
+  },
+  {
+    "identifier": {
+      "id": "openai.chatgpt"
+    }
+  },
+  {
+    "identifier": {
+      "id": "redhat.java"
+    }
+  },
+  {
+    "identifier": {
+      "id": "ritwickdey.liveserver"
+    }
+  },
+  {
+    "identifier": {
+      "id": "saltcoreyan.my-setting-sync"
+    }
+  },
+  {
+    "identifier": {
+      "id": "shopify.ruby-lsp"
+    }
+  },
+  {
+    "identifier": {
+      "id": "tomoki1207.pdf"
+    }
+  },
+  {
+    "identifier": {
+      "id": "voorjaar.windicss-intellisense"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-gradle"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-debug"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-dependency"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-pack"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-java-test"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vscjava.vscode-maven"
+    }
+  },
+  {
+    "identifier": {
+      "id": "vue.volar"
+    }
+  }
+]

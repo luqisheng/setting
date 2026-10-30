@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "host": "antigravity",
+  "createdAt": "",
+  "profiles": [
+    {
+      "id": "default",
+      "name": "默认",
+      "isDefault": true
+    }
+  ],
+  "files": {
+    "profiles/default/settings.json": "ac31123629b9184a7f7a69e75fdef66e3c93080c82684970fa7849b27b957e28",
+    "extensions.json": "2ea5fb24f10dde95455ef91e0a6162950ad923337e4c63351b5bd1a66d920489"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "explorer.confirmDelete": false,
+  "git.openRepositoryInParentFolders": "never",
+  "settingsSync.ignoredSettings": [],
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.iconTheme": "vscode-icons",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.formatOnPaste": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "workbench.colorTheme": "Monokai",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "Codegeex.Privacy": true,
+  "remote.SSH.remotePlatform": {
+    "www.carsmaga.com": "linux"
+  },
+  "Codegeex.License": "",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "codegeex.codeLens.enableCodeLens": "hide_x",
+  "claudeCode.preferredLocation": "panel",
+  "terminal.integrated.mouseWheelScrollSensitivity": 3,
+  "git.confirmSync": false,
+  "Lingma.aI Chat.mcpToolsInAgentMode": true,
+  "Lingma.cloudModelAutoTriggerGenerateLength": "long",
+  "github.copilot.enableAttribution": false,
+  "leek-fund.funds": [
+    [
+      "000157",
+      "110008",
+      "519690",
+      "110001"
+    ]
+  ],
+  "leek-fund.stocks": [
+    "sh513050",
+    "sh000001",
+    "sh000300",
+    "sh000016",
+    "hk03690",
+    "hk00700",
+    "usr_ixic",
+    "usr_dji",
+    "usr_inx",
+    "nf_IF0",
+    "nf_IH0",
+    "nf_IC0",
+    "nf_IM0",
+    "hf_OIL",
+    "hf_CHA50CFD",
+    "sh000688",
+    "sz159915"
+  ],
+  "QoderCN.aI Chat.mcpToolsInAgentMode": true,
+  "leek-fund.holdingsLedger": {
+    "schemaVersion": 1,
+    "updatedAt": "2026-06-03T01:20:36.518Z",
+    "revision": 0,
+    "defaultAccountId": "00000000-0000-4000-8000-000000000001",
+    "accounts": [
+      {
+        "id": "00000000-0000-4000-8000-000000000001",
+        "name": "默认",
+        "sort": 0,
+        "updatedAt": "2026-06-03T01:20:36.517Z",
+        "positions": []
+      }
+    ],
+    "migratedFrom": "fundAmount-v1+stockPrice-v1"
+  },
+  "leek-fund.fundAmount": {},
+  "leek-fund.stockPrice": {},
+  "leek-fund.holdingsLedgerMigrated": true,
+  "QoderCN.cloudModelAutoTriggerGenerateLength": "long",
+  "QoderCN.cloudModelManualTriggerGenerateLength": "long",
+  "antigravity.persistentLanguageServer": false,
+  "editor.accessibilitySupport": "off",
+  "python.languageServer": "Default",
+  "workbench.editorAssociations": {
+    "*.mo": "default"
+  },
+  "leek-fund.stockPortfolio": {
+    "schemaVersion": 2,
+    "updatedAt": "2026-08-05T05:54:43.555Z",
+    "migratedFrom": "stocks-v1",
+    "groups": [
+      {
+        "id": "ef22201a-8b4a-4c9f-8d08-544fbabee7f5",
+        "name": "默认分组",
+        "sort": 0,
+        "collapsed": false,
+        "items": [
+          {
+            "code": "sh513050",
+            "sort": 0
+          },
+          {
+            "code": "sh000001",
+            "sort": 1
+          },
+          {
+            "code": "sh000300",
+            "sort": 2
+          },
+          {
+            "code": "sh000016",
+            "sort": 3
+          },
+          {
+            "code": "hk03690",
+            "sort": 4
+          },
+          {
+            "code": "hk00700",
+            "sort": 5
+          },
+          {
+            "code": "usr_ixic",
+            "sort": 6
+          },
+          {
+            "code": "usr_dji",
+            "sort": 7
+          },
+          {
+            "code": "usr_inx",
+            "sort": 8
+          },
+          {
+            "code": "nf_IF0",
+            "sort": 9
+          },
+          {
+            "code": "nf_IH0",
+            "sort": 10
+          },
+          {
+            "code": "nf_IC0",
+            "sort": 11
+          },
+          {
+            "code": "nf_IM0",
+            "sort": 12
+          },
+          {
+            "code": "hf_OIL",
+            "sort": 13
+          },
+          {
+            "code": "hf_CHA50CFD",
+            "sort": 14
+          },
+          {
+            "code": "sh000688",
+            "sort": 15
+          },
+          {
+            "code": "sz159915",
+            "sort": 16,
+            "addedAt": "2026-08-05T05:54:43.553Z"
+          }
+        ]
+      }
+    ]
+  },
+  "gitlens.graph.details.location": "auto"
+}
