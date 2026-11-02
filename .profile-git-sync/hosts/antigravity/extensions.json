@@ -1,11 +1,6 @@
 [
   {
     "identifier": {
-      "id": "alibaba-cloud.tongyi-lingma"
-    }
-  },
-  {
-    "identifier": {
       "id": "anthropic.claude-code"
     }
   },
