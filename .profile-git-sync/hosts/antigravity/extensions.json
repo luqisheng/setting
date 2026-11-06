@@ -76,6 +76,11 @@
   },
   {
     "identifier": {
+      "id": "openai.codex-audio"
+    }
+  },
+  {
+    "identifier": {
       "id": "redhat.java"
     }
   },
